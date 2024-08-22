@@ -1,0 +1,7 @@
+* orm-utils
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ormf/orm-utils.git |
+| commit  | 0c03cbb                                   |
+| systems | orm-utils                                 |
+|---------+-------------------------------------------|
